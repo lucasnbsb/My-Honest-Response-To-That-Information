@@ -22,3 +22,6 @@ https://codepen.io/supah/pen/vXyBza
 Css used to suck and now is great
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/clamp
+
+### https://socialsharepreview.com/
+Social media content manangers have it hard too.
