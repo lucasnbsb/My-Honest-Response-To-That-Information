@@ -1,0 +1,21 @@
+{
+  "name": "myhonestresponse",
+  "version": "1.0.0",
+  "description": "my honest response to that information",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "author": "Lucas Neto Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "prerender-node": "^3.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "open-cli": "^6.0.1"
+  }
+}
