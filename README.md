@@ -2,6 +2,8 @@
 
 Ever wanted to say ✨no✨?
 
+https://lucasnbsb.github.io/My-Honest-Response-To-That-Information/
+
 # Here is what i learned while making this and where i learned it from:
 
 ### **html starter by Igor Agapov**
